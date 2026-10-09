@@ -1,0 +1,7 @@
+require("config")
+require("config.style")
+require("config.cmp")
+require("config.lsp")
+require("config.keymaps")
+require("config.utils")
+require("config.userupdates")
